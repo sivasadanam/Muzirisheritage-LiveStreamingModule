@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Muzirisheritage-LiveStreamingModule</string>
+
+    <string name="actions_settings"> Settings </string>
+    <string name="timerVal"> 00:00:000 </string>
+    <string name="startButtonLabel">Start</string>
+    <string name="stopButtonLabel">Stop</string>
+    <string name="resetButtonLabel">Reset</string>
+    <string name="copyright">© 2016, Ricky Dam</string>
+
+</resources>

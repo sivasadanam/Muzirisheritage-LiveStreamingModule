@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "342566503878",
+    "firebase_url": "https://muziris-logon.firebaseio.com",
+    "project_id": "muziris-logon",
+    "storage_bucket": "muziris-logon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342566503878:android:abfe373614edaa900a1ec7",
+        "android_client_info": {
+          "package_name": "com.example.chmarax.logregform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342566503878-ddria7i51fhkvvgp4nsfcdfs48bhm3mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAVO1jVYshahTLstZNmmgyrQgJ3IboU8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342566503878-ddria7i51fhkvvgp4nsfcdfs48bhm3mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342566503878:android:bc3fd059737c09790a1ec7",
+        "android_client_info": {
+          "package_name": "com.example.muziris_heritage_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342566503878-m7io0ski5plst0lp62vu2t4i85urrut5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.muziris_heritage_project",
+            "certificate_hash": "21e9bd424e282260cce4c50368b975e4c11e7948"
+          }
+        },
+        {
+          "client_id": "342566503878-ddria7i51fhkvvgp4nsfcdfs48bhm3mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAVO1jVYshahTLstZNmmgyrQgJ3IboU8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342566503878-ddria7i51fhkvvgp4nsfcdfs48bhm3mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342566503878:android:7e0aae7b19db79460a1ec7",
+        "android_client_info": {
+          "package_name": "com.example.muzirisheritage_livestreamingmodule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342566503878-mghi0emuf0vao79sm9ckge3u2l2h174e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.muzirisheritage_livestreamingmodule",
+            "certificate_hash": "21e9bd424e282260cce4c50368b975e4c11e7948"
+          }
+        },
+        {
+          "client_id": "342566503878-ddria7i51fhkvvgp4nsfcdfs48bhm3mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAVO1jVYshahTLstZNmmgyrQgJ3IboU8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342566503878-ddria7i51fhkvvgp4nsfcdfs48bhm3mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
